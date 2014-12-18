@@ -1,4 +1,6 @@
 javascript-frame-lib-analyse
 ============================
 
-翻译一些javascript的源码，希望大家一起来解析源码
+翻译一些javascript的库或者框架的源码。
+
+给新人以解释。
